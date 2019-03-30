@@ -1,0 +1,20 @@
+
+
+{
+  "Rice": [
+    {"name":"Brown","weight": 50,"price": 60},
+    {"name": "Long-Grain Rice","weight": 35,"price": 80},
+    {"name": "Basmati","weight": 40,"price": 75}
+  ],
+  "Pulses": [
+    {"name": "Green Gram","weight": 7,"price": 100},
+    {"name": "Sago","weight": 5,"price": 110},
+    {"name": "Beans","weight": 10,"price": 80}
+  ],
+  "Wheat": [
+    {"name": "Wheat_x","weight": 25,"price": 50},
+    {"name": "Wheats_y","weight": 15,"price": 100},
+    {"name": "Wheats_z","weight": 20,"price": 75}
+  ]
+
+}

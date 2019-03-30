@@ -1,0 +1,23 @@
+[
+  {
+    "transaction_name ": "Buy",
+    "customer_id": 201,
+    "company_name": "tata",
+    "number_of_share": 1,
+    "time details": "2019-03-30 10:00:03.880878"
+  },
+  {
+    "transaction_name ": "Sell",
+    "customer_id": 214,
+    "company_name": "kotak",
+    "number_of_share": 2,
+    "time details": "2019-03-30 10:00:39.988885"
+  },
+  {
+    "transaction_name ": "Buy",
+    "customer_id": 214,
+    "company_name": "kotak",
+    "number_of_share": 1,
+    "time details": "2019-03-30 10:01:14.203395"
+  }
+]

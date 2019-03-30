@@ -1,0 +1,53 @@
+{
+  "Tata": [
+    {
+      "name": "jaguar",
+      "no_of_share": 15,
+      "price": 100
+    },
+    {
+      "name": "motor",
+      "no_of_share": 10,
+      "price": 150
+    },
+    {
+      "name": "steel",
+      "no_of_share": 25,
+      "price": 200
+    }
+  ],
+  "Relance": [
+    {
+      "name": "jeo",
+      "no_of_share": 35,
+      "price": 750
+    },
+    {
+      "name": "digital",
+      "no_of_share": 5,
+      "price": 110
+    },
+    {
+      "name": "oil",
+      "no_of_share": 30,
+      "price": 300
+    }
+  ],
+  "google": [
+    {
+      "name": "x",
+      "no_of_share": 5,
+      "price": 250
+    },
+    {
+      "name": "y",
+      "no_of_share": 26,
+      "price": 150
+    },
+    {
+      "name": "z",
+      "no_of_share": 7,
+      "price": 1000
+    }
+  ]
+}
